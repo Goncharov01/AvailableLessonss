@@ -1,3 +1,5 @@
+![alt text] (https://user-images.githubusercontent.com/40935877/54784313-9565d500-4c34-11e9-8a6b-e20540c5cd55.png)
+
 [Useful links and plugins](/Useful_things.md) 😉
 
 # Homework flow:

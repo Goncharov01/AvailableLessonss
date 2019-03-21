@@ -1,4 +1,5 @@
-![alt text] (https://user-images.githubusercontent.com/40935877/54784313-9565d500-4c34-11e9-8a6b-e20540c5cd55.png)
+
+![EpamTraning](https://user-images.githubusercontent.com/40935877/54784616-55ebb880-4c35-11e9-8b59-e7601d89a5d7.jpg)
 
 [Useful links and plugins](/Useful_things.md) 😉
 
